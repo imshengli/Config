@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 12,
+    "window.zoomLevel": 1,
+    "editor.lineHeight": 24,
+    "files.insertFinalNewline": true,
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 100,
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "Monokai",
+    "window.title": "${activeEditorMedium}${separator}${rootName}"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "config-files",
+  "version": "0.0.1",
+  "description": "Config files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imshengli/Config.git"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "zhangshengli@imshengli.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imshengli/Config/issues"
+  },
+  "homepage": "https://github.com/imshengli/Config#readme"
+}
